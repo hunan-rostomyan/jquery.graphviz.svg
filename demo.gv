@@ -56,7 +56,7 @@
 	T30 [shape="circle", tooltip="Go T30", fillcolor="#ea555b", color="#ea555b"];
 
 	43 [fillcolor="#a5cf80", color="#a5cf80"];
-	40 [fillcolor="#a5cf80", color="#a5cf80", label="Another"];
+	40 [fillcolor="#a5cf80", color="#a5cf80", label="Test"];
 
 	28 [fillcolor="#AB6D16", color="#AB6D16"];
 	19 [fillcolor="#AB6D16", color="#AB6D16"];
